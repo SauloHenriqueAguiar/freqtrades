@@ -1,0 +1,25 @@
+{
+  "strategy_name": "ADXMomentum",
+  "params": {
+    "trailing": {
+      "trailing_stop": false,
+      "trailing_stop_positive": null,
+      "trailing_stop_positive_offset": 0.0,
+      "trailing_only_offset_is_reached": false
+    },
+    "buy": {},
+    "sell": {},
+    "protection": {},
+    "roi": {
+      "0": 0.279,
+      "28": 0.081,
+      "48": 0.031,
+      "150": 0
+    },
+    "stoploss": {
+      "stoploss": -0.219
+    }
+  },
+  "ft_stratparam_v": 1,
+  "export_time": "2022-04-16 19:51:41.369736+00:00"
+}
