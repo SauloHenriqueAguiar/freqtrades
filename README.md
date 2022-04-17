@@ -1,2 +1,1 @@
-# ffreqtrad
-# ffreqtrad
+# Plataforma de Negociação de Criptomoedas
